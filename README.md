@@ -1,3 +1,2 @@
 ### Hi there 👋
-![](https://github.com/wbreiler/monke/blob/master/generated/overview.svg)
-![](https://github.com/wbreiler/monke/blob/master/generated/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbreiler&count_private=true&show_icons=true)
