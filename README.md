@@ -15,4 +15,5 @@ Skills: Networking / Cyber Security / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbreiler)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/wbreiler)  /
+![Profile views](https://komarev.com/ghpvc/?username=wbreiler)
+
