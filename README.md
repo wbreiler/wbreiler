@@ -3,7 +3,7 @@ Currently a student studying cyber security, I enjoy listening to music, solving
 
 Skills: Networking / Cyber Security
 
-- 🔭 I’m currently working on [my personal website].(https://github.com/wbreiler/wbreiler.github.io) 
+- 🔭 I’m currently working on [my personal website.](https://github.com/wbreiler/wbreiler.github.io) 
 - 🌱 I’m currently learning C 
 - 📫 How to reach me: [email me!](mailto:will.breiler@wbreiler.me) 
 - 😄 Pronouns: he/they 
