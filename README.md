@@ -3,9 +3,9 @@ Currently a student studying cyber security, I enjoy listening to music, solving
 
 Skills: Networking / Cyber Security
 
-- 🔭 I’m currently working on [Raspberry Pi PCIe](https://github.com/geerlingguy/raspberry-pi-pcie-devices) 
+- 🔭 I’m currently working on [my personal website].(https://github.com/wbreiler/wbreiler.github.io) 
 - 🌱 I’m currently learning C 
-- 📫 How to reach me: [email me!](mailto:will.breiler@gmail.com) 
+- 📫 How to reach me: [email me!](mailto:will.breiler@wbreiler.me) 
 - 😄 Pronouns: he/they 
 
 
@@ -13,6 +13,3 @@ Skills: Networking / Cyber Security
 
 ![](https://github.com/wbreiler/monke/blob/master/generated/overview.svg)
 ![](https://github.com/wbreiler/monke/blob/master/generated/languages.svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=wbreiler)
-
