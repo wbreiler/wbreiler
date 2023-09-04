@@ -9,4 +9,4 @@ Skills: Networking / Cyber Security
 - 😄 Pronouns: he/him 
 
 
-[!GitHub Stats](https://github-readme-stats.vercel.app/api?username=wbreiler)
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbreiler&show_icons=true&theme=transparent)
