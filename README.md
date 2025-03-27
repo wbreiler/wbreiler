@@ -13,7 +13,7 @@ I'm a technology professional specializing in:
 ## Current Focus
 
 - 🔭 Working on [MeowNow](https://github.com/MeowNowApp/MeowNow)
-- 🔍 Finding PIDs for Sidecar
+- 🔍 Finding PIDs for [Sidecar](https://sidecar.clutch.engineering)
 
 ## Connect With Me
 
