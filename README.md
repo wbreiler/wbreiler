@@ -1,11 +1,24 @@
-### Hi there 👋, My name's Will
+# Hi there 👋, My name's Will
 
-#### Skills: Networking / Cyber Security / Sever Management / Containerization / Virtualization
+## About Me
 
-- 🔭 I’m currently working on [containerizing my homelab](https://github.com/wbreiler/HLDocker)
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: [email me!](mailto:will.breiler@gmail.com) 
-- 😄 Pronouns: he/him 
+I'm a technology professional specializing in:
 
+- 🔒 Networking & Cyber Security
+- 🖥️ Server Management
+- 🐳 Containerization
+- 💻 Virtualization
+- 😄 Pronouns: he/him
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbreiler&show_icons=true&theme=transparent)
+## Current Focus
+
+- 🔭 Working on [MeowNow](https://github.com/MeowNowApp/MeowNow)
+- 🔍 Finding PIDs for Sidecar
+
+## Connect With Me
+
+- 📫 [Email me](mailto:will@wbreiler.com)
+- 🐦 [Twitter](https://twitter.com/wbreiler)
+- 🎮 Discord: resist
+- 💼 [LinkedIn](https://linkedin.com/in/wbreiler)
+- 🌐 [Bluesky](https://bsky.app/profile/wbreiler.bsky.social)
