@@ -8,12 +8,10 @@ I'm a technology professional specializing in:
 - 🖥️ Server Management
 - 🐳 Containerization
 - 💻 Virtualization
-- 😄 Pronouns: he/him
 
 ## Current Focus
 
 - 🔭 Working on [MeowNow](https://github.com/MeowNowApp/MeowNow)
-- 🔍 Finding PIDs for [Sidecar](https://sidecar.clutch.engineering)
 
 ## Connect With Me
 
@@ -21,4 +19,3 @@ I'm a technology professional specializing in:
 - 🐦 [Twitter](https://twitter.com/wbreiler)
 - 🎮 Discord: resist
 - 💼 [LinkedIn](https://linkedin.com/in/wbreiler)
-- 🌐 [Bluesky](https://bsky.app/profile/wbreiler.bsky.social)
