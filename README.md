@@ -1,21 +1,25 @@
-# Hi there 👋, My name's Will
+# 👋 Hey, I'm Will
 
-## About Me
+### 🧠 Technologist · Builder · Problem-Solver
 
-I'm a technology professional specializing in:
+I specialize in:
 
-- 🔒 Networking & Cyber Security
-- 🖥️ Server Management
-- 🐳 Containerization
-- 💻 Virtualization
+- 🔐 Networking & Cybersecurity  
+- 🖥️ Server Management & Automation  
+- 🐳 Containerization (Docker, Podman)  
+- 💻 Virtualization (Proxmox, VMware, KVM)
 
-## Current Focus
+---
 
-- 🔭 Working on [MeowNow](https://github.com/MeowNowApp/MeowNow)
+### 🚀 Current Project
 
-## Connect With Me
+🐈 [**MeowNow**](https://github.com/MeowNowApp/MeowNow) - A lightweight, fun app for discovering random cats — because the internet *deserves* more cats.
 
-- 📫 [Email me](mailto:will@wbreiler.com)
-- 🐦 [Twitter](https://twitter.com/wbreiler)
-- 🎮 Discord: resist
+---
+
+### 📬 Let's Connect
+
+- 📧 [Email](mailto:will@wbreiler.com)  
+- 🐦 [Twitter/X](https://x.com/wbreiler)  
+- 💬 Discord: `resist`  
 - 💼 [LinkedIn](https://linkedin.com/in/wbreiler)
