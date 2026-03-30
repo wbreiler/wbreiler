@@ -19,7 +19,6 @@ I specialize in:
 
 ### 📬 Let's Connect
 
-- 📧 [Email](mailto:will@wbreiler.com)  
-- 🐦 [Twitter/X](https://x.com/wbreiler)  
-- 💬 Discord: `resist`  
+- 📧 [Email](mailto:contact@wbreiler.com)  
+- 🐦 [Twitter/X](https://x.com/wbreiler)
 - 💼 [LinkedIn](https://linkedin.com/in/wbreiler)
